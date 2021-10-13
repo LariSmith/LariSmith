@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lari</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 - 🔭 I’m currently working at **Think4**
-- 📫 How to reach me **smithcarvalho.larissa@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/larissa-smith-524639134" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
