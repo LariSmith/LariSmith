@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lari</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Think4**
+- 🔭 I’m currently working at **Think4**
 
 - 📫 How to reach me **smithcarvalho.larissa@gmail.com**
 
